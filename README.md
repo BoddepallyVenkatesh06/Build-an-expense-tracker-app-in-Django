@@ -1,6 +1,6 @@
 # Build-an-expense-tracker-app-in-Django
 
-#### Website Deployed on [Heroku](https://expenseincometrackerdjango.herokuapp.com/)
+#### Website Deployed on [Netlify](https://expense-tracker-django.netlify.app/)
 
 ### Table of Contents
 - [Main Features](#main-features)
